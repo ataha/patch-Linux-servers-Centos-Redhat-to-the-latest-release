@@ -1,0 +1,3 @@
+#change root password before the update "Optional"
+#Check routing table before and after the update
+
